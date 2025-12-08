@@ -1,12 +1,21 @@
-# Benchmark_Dashboard_Info
-This Repo contains the following:
-✔ app.R (full code) 
+# Benchmark Dashboard – Shiny App
+This repository contains a Shiny application designed to clean, organize, and visualize middle school benchmark assessment data across classes, grades, and years. The tool supports data-driven instruction by transforming complex spreadsheets into clear, actionable insights for teachers and administrators.
+
+# This repo includes 
+
+✔ app.R - Full Shiny application code
 ✔ De-identified sample workbook(s) 
 ✔ Variable dictionary (variable_dictionary.md) 
 ✔ README: how to run the app 
 ✔ Example output screenshots
 
 # Here is how to use this Shiny app
+
+First, copy and paste all code from app.R into a new R script. 
+Install any required packages if prompted (e.g., shiny, dplyr, readxl, plotly).
+Then, click “Run App”
+	•	The Shiny interface will launch in the Viewer pane or in your browser.
+
 **To analyze Last Year’s Data Only:**
 
 If you want to explore last year’s benchmark results without comparing them to the current year:

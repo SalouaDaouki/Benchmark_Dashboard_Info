@@ -29,8 +29,6 @@ This document defines all variables used in the benchmark analysis tool, includi
 
 ## Visualization-Derived Variables
 
-## Visualization-Derived Variables
-
 | **Variable Name**  | **Type**                     | **Description**                                                                   |
 |--------------------|------------------------------|-----------------------------------------------------------------------------------|
 | Growth_B1_B2       | Numeric                      | Change in average score from Benchmark 1 to Benchmark 2.                          |
